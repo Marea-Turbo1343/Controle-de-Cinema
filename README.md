@@ -46,3 +46,36 @@ O sistema deve apresentar os detalhes das sessões, mostrando as poltronas dispo
 **Qualidade**
 ● Deve-se criar testes automatizados para os componentes da aplicação
 ● Deve-se criar a documentação do projeto, prototipos, diagramas e README
+
+---
+
+## Requisitos
+
+- .NET SDK (recomendado .NET 8.0 ou superior) para compilação e execução do projeto.
+---
+## Como Usar
+
+#### Clone o Repositório
+```
+git clone https://github.com/Marea-Turbo1343/Controle-de-Cinema2024.git
+```
+
+#### Navegue até a pasta raiz da solução
+```
+cd controle-de-cinema2024
+```
+
+#### Restaure as dependências
+```
+dotnet restore
+```
+
+#### Navegue até a pasta do projeto
+```
+cd ControledeCinema.WinApp
+```
+
+#### Execute o projeto
+```
+dotnet run
+```
