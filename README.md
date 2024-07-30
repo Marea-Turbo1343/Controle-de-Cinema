@@ -5,7 +5,7 @@
 Desenvolvido durante o curso Fullstack da [Academia do Programador](https://www.academiadoprogramador.net) 2024
 
 ---
-## Requisitos Funcionais:
+## Requisitos Funcionais
 
 Com a necessidade de gerenciar melhor as vendas de ingressos do Cinema de Lages, foi proposto pelo dono do Cinema o Sr. João do Nascimento, a criação de um sistema que auxilia no controle das vendas dos ingressos para os clientes que desejam assistir os filmes e comer aquela pipoca nos finais de semana. 
 
@@ -32,9 +32,9 @@ O Sistema de Controle de Cinema deve possuir um módulo de cadastro, onde serão
 
 O sistema deve apresentar os detalhes das sessões, mostrando as poltronas disponíveis e já vendidas.
 
-## Requisitos Não Funcionais:
+## Requisitos Não Funcionais
 
-**Ambiente:**
+**Ambiente**
 ● A aplicação poderá ser acessada a partir de um navegador de internet (browser)
 
 **Persistência das informações**
